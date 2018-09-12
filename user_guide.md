@@ -1,6 +1,6 @@
 # User Guide
 ## Configuration File
-Under the `nntrader/nntrader` directory, there is a json file called `net_config.json`,
+Under the `./pgportfolio` directory, there is a json file called `net_config.json`,
  holding all the configuration of the agent and could be modified outside the program code.
 ### Network Topology
 * `"layers"`
